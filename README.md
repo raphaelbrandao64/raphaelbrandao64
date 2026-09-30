@@ -1,3 +1,24 @@
-    <div align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3776AB&width=500&lines=$+python+developer.py;Raphael+Brand%C3%A3o+Silva+%7C+Python+Developer;T%C3%A9cnico+em+Inform%C3%A1tica+%E2%80%94+IFBA+(2%C2%BA+ano);Status:+Learning+%26+building..." alt="Typing SVG" />
-    </div>
+    class Developer:
+        def __init__(self, name, age, education, language):
+            self.name = name
+            self.age = age
+            self.education = education
+            self.language = language
+            self.status = "Learning & building"
+    
+        def code(self):
+            return f"Converting coffee and logic into {self.language} code... 🐍"
+    
+        def __str__(self):
+            return f"{self.name} | {self.language} Developer"
+    
+    
+    raphael = Developer(
+        name="Raphael Brandão Silva",
+        age=16,
+        education="Técnico em Informática — IFBA (2º ano)",
+        language="Python"
+    )
+    
+    print(raphael)
+    print(raphael.code())
