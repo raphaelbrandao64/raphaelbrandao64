@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&width=600&lines=$+python+developer.py;Raphael+Brand%C3%A3o+Silva;T%C3%A9cnico+em+Inform%C3%A1tica+@+IFBA" alt="banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&width=600&lines=$+python+developer.py;Raphael+Brand%C3%A3o+Silva;
+IT technician+@+IFBA" alt="banner" />
 </p>
 
 ### about
