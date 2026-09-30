@@ -12,8 +12,8 @@
 
     Raphael = Developer(
         name="Raphael Brandão Silva",
-        age=16,
-        education="Técnico em Informática — IFBA",
+        age=16y,
+        education="Técnico em Informática — IFBA - 2º ano",
         language="Python"
     )
     
