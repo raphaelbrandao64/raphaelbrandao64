@@ -1,16 +1,14 @@
-## Hi there 👋
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Raphael Brandão Silva"
+        self.age = 16
+        self.role = "IT Student & Python Enthusiast"
+        self.education = "Technical High School in IT @ IFBA (2nd Year)"
+        self.main_language = "Python"
+        
+    def get_status(self):
+        return "Learning, building projects, and evolving every day! 🚀"
 
-<!--
-**raphaelbrandao64/raphaelbrandao64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me = Developer()
+print(me.get_status())
