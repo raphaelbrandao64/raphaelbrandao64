@@ -5,7 +5,7 @@
 ### about
 16-year-old developer & IT student. building backend scripts, automation tools, and software logic with Python. currently in my 2nd year of Technical High School in IT at **IFBA**.
 
-🌐 [GitHub Profile](https://github.com/raphaelbrandao64) • ✉️ [raphaelbrandao064@.com](mailto:raphaelbrandao064@.com)
+🌐 [GitHub Profile](https://github.com/raphaelbrandao64) • ✉️ [raphaelbrandao064@.com](mailto:raphaelbrandao064@gmail.com)
 
 ---
 
