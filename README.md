@@ -5,22 +5,15 @@
 <br />
 
 ## 🐍 &nbsp; about me
-⚡ &nbsp; 16 anos, apaixonado por tecnologia e automação<br />
+⚡ &nbsp; 16 anos
 🎓 &nbsp; cursando técnico em informática integrado ao ensino médio @ IFBA (2º ano)<br />
-💻 &nbsp; focado no desenvolvimento de soluções, lógica e projetos com **Python**
-
-## 📂 &nbsp; fav repos
-
-| name | description |
-|------|---------------|
-| [`python-projects`](https://github.com/SEU_USUARIO/python-projects) | scripts, automações e projetos que desenvolvo durante a minha jornada |
-| [`ifba-lab`](https://github.com/SEU_USUARIO/ifba-lab) | códigos e exercícios práticos do curso técnico de informática |
+💻 &nbsp; focado em projetos com **Python**
 
 ## 🛠️ &nbsp; tech stack
 
 - **Linguagem Principal:** Python 🐍
-- **Ferramentas & Ambiente:** Git, GitHub, VS Code, Linux
-- **Conceitos:** Orientação a Objetos, Lógica de Programação, Estrutura de Dados
+- **Ferramentas & Ambiente:** Git, GitHub, VS Code, Adobe Premiere
+- **Conceitos:** Orientação a Objetos, Lógica de Programação
 
 ## ✨ &nbsp; code preview
 
