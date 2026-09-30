@@ -7,7 +7,6 @@
 ## 🐍 &nbsp; about me
 
 ⚡ &nbsp; 16 anos
-
 🎓 &nbsp; cursando técnico em informática integrado ao ensino médio @ IFBA (2º ano)<br />
 💻 &nbsp; focado em projetos com **Python**
 
