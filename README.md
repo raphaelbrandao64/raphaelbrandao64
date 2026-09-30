@@ -12,12 +12,12 @@
 ### core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pr,git,github,vscode,linux&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=py,pr,git,github,vscode&theme=dark" alt="core skills" />
 </p>
 
 - **programming & logic**: Python (OOP, Data Structures, Automation, CLI Tools)
 - **creative & media**: Adobe Premiere Pro (Video Editing, Post-Production)
-- **tools & environment**: Git • GitHub • VS Code • Linux terminal
+- **tools & environment**: Git • GitHub • VS Code
 
 ---
 
